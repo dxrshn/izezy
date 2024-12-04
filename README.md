@@ -74,22 +74,7 @@ Python                   1 repo              ███████████�
  Last Updated on 04/12/2024 11:15:12 UTC
 <!--END_SECTION:waka-->
 
-name: Waka Readme
-
-on:
-  schedule:
-    # Runs at 12am IST
-    - cron: '30 18 * * *'
-  workflow_dispatch:
-jobs:
-  update-readme:
-    name: Update Readme with Metrics
-    runs-on: ubuntu-latest
-    steps:
-      - uses: anmol098/waka-readme-stats@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31pybieniezipiyqstyr662wni5u&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31pybieniezipiyqstyr662wni5u&redirect=true)
 <br><br><br>
 ### Languages
 
