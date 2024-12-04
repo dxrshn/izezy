@@ -93,10 +93,10 @@ Python                   1 repo              ███████████�
 ### Socials
 <p align="left">
   <a href="https://discordapp.com/users/517895546283753494">
-      <img src="images/discord.svg" alt="discord badge" style="vertical-align:top margin:6px 4px">
+      <img src="images/discord.svg" alt="discord badge" style="vertical-align: top; margin: 6px 4px; width: 40px; height: 40px;">
   </a>  
   <a href="https://open.spotify.com/user/31pybieniezipiyqstyr662wni5u?si=1f5a6969e37f43b1">
-      <img src="images/spotify.svg" alt="spotify badge" style="vertical-align:top margin:6px 4px">
+      <img src="images/spotify.svg" alt="spotify badge" style="vertical-align: top; margin: 6px 4px; width: 40px; height: 40px;">
   </a>
 </p>  
 <!--
