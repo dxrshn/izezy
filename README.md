@@ -10,15 +10,13 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-53-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-218-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 317 Bytes Used in GitHub's Storage 
+> 📦 420 Bytes Used in GitHub's Storage 
  > 
-> 🏆 39 Contributions in the Year 2024
+> 🏆 42 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -26,34 +24,6 @@
  > 
 > 🔑 1 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                38 commits          ████████████████████████░   97.44 % 
-🌃 Evening                1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -63,7 +33,7 @@ Python                   1 repo              ███████████�
 
 
 
- Last Updated on 04/12/2024 12:24:53 UTC
+ Last Updated on 04/12/2024 18:45:35 UTC
 <!--END_SECTION:waka-->
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31pybieniezipiyqstyr662wni5u&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31pybieniezipiyqstyr662wni5u&redirect=true)
