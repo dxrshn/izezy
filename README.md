@@ -23,7 +23,7 @@
       <img src="images/discord.svg" alt="discord badge" style="vertical-align:top margin:6px 4px">
   </a>  
   <a href="#">
-      <img src="images/spotify.svg" alt="spotify badge" style="vertical-align:top margin:6px 4px">
+      <img src="images/spotify.png" alt="spotify badge" style="vertical-align:top margin:6px 4px">
   </a>
 </p>  
 <!--
