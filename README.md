@@ -1,7 +1,7 @@
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
 ![](https://komarev.com/ghpvc/?username=dxrshxnw&style=for-the-badge&abbreviated=true)
  <a href="#">
-    <img src="help/badge1.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+    <img src="src/cpp.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
   </a>  
 <!--
 **dxrshxnw/dxrshxnw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
