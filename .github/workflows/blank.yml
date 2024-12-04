@@ -1,5 +1,5 @@
 name: Waka Readme
-
+disable it via syntax error
 on:
   schedule:
     # Runs at 12am IST
