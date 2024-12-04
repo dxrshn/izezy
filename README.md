@@ -88,6 +88,7 @@ Python                   1 repo              ███████████�
       <img src="images/spotify.svg" alt="spotify badge" style="vertical-align: top;  width: 40px; height: 40px;">
   </a>
 </p>  
+Just staring
 <!--
 **dxrshxnw/dxrshxnw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
