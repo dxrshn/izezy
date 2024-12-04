@@ -16,7 +16,7 @@
   </a>
 </p>  
 
-</div>
+
 ### Socials
 <p align="left">
   <a href="#">
