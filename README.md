@@ -2,15 +2,30 @@
 ![](https://komarev.com/ghpvc/?username=dxrshxnw&style=for-the-badge&abbreviated=true)
 
 <br><br><br>
-<a href="#">
-    <img src="images/cpp.svg" alt="cpp badge" style="vertical-align:top margin:6px 4px">
+### Languages
+
+<p align="left">
+  <a href="#">
+      <img src="images/cpp.svg" alt="cpp badge" style="vertical-align:top margin:6px 4px">
   </a>  
-<a href="#">
-    <img src="images/python.svg" alt="python badge" style="vertical-align:top margin:6px 4px">
+  <a href="#">
+      <img src="images/python.svg" alt="python badge" style="vertical-align:top margin:6px 4px">
   </a>
- <a href="#">
-    <img src="images/c.svg" alt="c badge" style="vertical-align:top margin:6px 4px">
+  <a href="#">
+      <img src="images/c.svg" alt="c badge" style="vertical-align:top margin:6px 4px">
+  </a>
+</p>  
+
+</div>
+### Socials
+<p align="left">
+  <a href="#">
+      <img src="images/discord.svg" alt="discord badge" style="vertical-align:top margin:6px 4px">
   </a>  
+  <a href="#">
+      <img src="images/spotify.svg" alt="spotify badge" style="vertical-align:top margin:6px 4px">
+  </a>
+</p>  
 <!--
 **dxrshxnw/dxrshxnw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
