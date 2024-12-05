@@ -10,20 +10,50 @@
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-218-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-26%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-219-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 420 Bytes Used in GitHub's Storage 
- > 
-> 🏆 42 Contributions in the Year 2024
+> 📦 467 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 5 Public Repositories 
+> 📜 4 Public Repositories 
  > 
 > 🔑 1 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌆 Daytime                41 commits          ████████████████████████░   97.62 % 
+🌃 Evening                1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+C++                      13 mins             █████████████░░░░░░░░░░░░   52.09 % 
+Markdown                 12 mins             ████████████░░░░░░░░░░░░░   47.91 % 
+
+🔥 Editors: 
+VS Code                  26 mins             █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+CPP                      13 mins             █████████████░░░░░░░░░░░░   52.09 % 
+dxrshxnw                 12 mins             ████████████░░░░░░░░░░░░░   47.91 % 
+
+💻 Operating System: 
+Windows                  26 mins             █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -33,7 +63,7 @@ Python                   1 repo              ███████████�
 
 
 
- Last Updated on 04/12/2024 18:45:35 UTC
+ Last Updated on 05/12/2024 18:43:27 UTC
 <!--END_SECTION:waka-->
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31pybieniezipiyqstyr662wni5u&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31pybieniezipiyqstyr662wni5u&redirect=true)
