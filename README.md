@@ -10,7 +10,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2032%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-236-blue)
 
@@ -18,13 +18,11 @@
 
 > 📦 16.8 kB Used in GitHub's Storage 
  > 
-> 🏆 41 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 4 Public Repositories 
+> 📜 5 Public Repositories 
  > 
-> 🔑 2 Private Repositories 
+> 🔑 1 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -42,20 +40,24 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C++                      1 hr 47 mins        ██████████████████████░░░   87.33 % 
-Markdown                 12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
-Text                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+C++                      3 hrs 6 mins        ██████████████████████░░░   87.87 % 
+Markdown                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
+HTML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 3 mins        █████████████████████████   100.00 % 
+VS Code                  3 hrs 32 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-2024                     1 hr 36 mins        ████████████████████░░░░░   78.58 % 
-CPP                      13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
-dxrshxnw                 12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+2024                     2 hrs 56 mins       █████████████████████░░░░   83.05 % 
+CPP                      13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+dxrshxnw                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
+NextGenWeb               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
+Dank-Memer-Grinder       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Windows                  2 hrs 3 mins        █████████████████████████   100.00 % 
+Windows                  3 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in CSS** 
@@ -68,7 +70,7 @@ Python                   1 repo              ███████████�
 
 
 
- Last Updated on 06/12/2024 18:44:11 UTC
+ Last Updated on 07/12/2024 18:42:05 UTC
 <!--END_SECTION:waka-->
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31pybieniezipiyqstyr662wni5u&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31pybieniezipiyqstyr662wni5u&redirect=true)
