@@ -18,11 +18,11 @@
 
 > 📦 19.9 kB Used in GitHub's Storage 
  > 
-> 🏆 1 Contributions in the Year 2025
+> 🏆 2 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 9 Public Repositories 
+> 📜 10 Public Repositories 
  > 
 > 🔑 2 Private Repositories 
  > 
@@ -42,7 +42,7 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C++                      1 hr 53 mins        ██████████░░░░░░░░░░░░░░░   40.78 % 
+C++                      1 hr 53 mins        ██████████░░░░░░░░░░░░░░░   40.79 % 
 Go                       1 hr 18 mins        ███████░░░░░░░░░░░░░░░░░░   28.42 % 
 JSON                     1 hr 7 mins         ██████░░░░░░░░░░░░░░░░░░░   24.19 % 
 JavaScript               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
@@ -55,7 +55,7 @@ VS Code                  4 hrs 37 mins       ███████████�
 Advent Of Code           1 hr 58 mins        ███████████░░░░░░░░░░░░░░   42.67 % 
 Dank-Memer-Grinder       1 hr 25 mins        ████████░░░░░░░░░░░░░░░░░   30.68 % 
 Unknown Project          58 mins             █████░░░░░░░░░░░░░░░░░░░░   21.09 % 
-react-portfolio          7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+react-portfolio          7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
 idk                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
 
 💻 Operating System: 
@@ -73,7 +73,7 @@ Python                   1 repo              ████████░░░�
 
 
 
- Last Updated on 02/01/2025 18:41:15 UTC
+ Last Updated on 03/01/2025 18:40:55 UTC
 <!--END_SECTION:waka-->
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31pybieniezipiyqstyr662wni5u&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31pybieniezipiyqstyr662wni5u&redirect=true)
