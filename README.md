@@ -40,20 +40,16 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Go                       17 mins             ██████████████████████░░░   86.00 % 
-Python                   1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
-Text                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+Go                       17 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  20 mins             █████████████████████████   100.00 % 
+VS Code                  17 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Dank-Memer-Grinder       17 mins             ██████████████████████░░░   86.00 % 
-dbots                    2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
-Unknown Project          0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+Dank-Memer-Grinder       17 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  20 mins             █████████████████████████   100.00 % 
+Windows                  17 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -67,7 +63,7 @@ Python                   1 repo              ████████░░░�
 
 
 
- Last Updated on 14/01/2025 18:40:06 UTC
+ Last Updated on 15/01/2025 18:40:04 UTC
 <!--END_SECTION:waka-->
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31pybieniezipiyqstyr662wni5u&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31pybieniezipiyqstyr662wni5u&redirect=true)
