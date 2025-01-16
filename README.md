@@ -10,13 +10,13 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-25%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-25%20hrs%2041%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 20.0 kB Used in GitHub's Storage 
+> 📦 19.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -40,16 +40,21 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Go                       17 mins             █████████████████████████   100.00 % 
+JavaScript               25 mins             ██████████████░░░░░░░░░░░   57.83 % 
+Go                       17 mins             ██████████░░░░░░░░░░░░░░░   40.88 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
 
 🔥 Editors: 
-VS Code                  17 mins             █████████████████████████   100.00 % 
+VS Code                  43 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Dank-Memer-Grinder       17 mins             █████████████████████████   100.00 % 
+Dank-Memer-Grinder       17 mins             ██████████░░░░░░░░░░░░░░░   40.88 % 
+vote                     15 mins             █████████░░░░░░░░░░░░░░░░   34.52 % 
+Unknown Project          10 mins             ██████░░░░░░░░░░░░░░░░░░░   23.00 % 
+Dbot                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 
 💻 Operating System: 
-Windows                  17 mins             █████████████████████████   100.00 % 
+Windows                  43 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -63,7 +68,7 @@ Python                   1 repo              ████████░░░�
 
 
 
- Last Updated on 15/01/2025 18:40:04 UTC
+ Last Updated on 16/01/2025 18:40:27 UTC
 <!--END_SECTION:waka-->
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31pybieniezipiyqstyr662wni5u&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31pybieniezipiyqstyr662wni5u&redirect=true)
