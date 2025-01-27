@@ -10,7 +10,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-29%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-29%20hrs%2048%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -40,23 +40,21 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   1 hr 8 mins         ██████████████░░░░░░░░░░░   57.44 % 
-Go                       29 mins             ██████░░░░░░░░░░░░░░░░░░░   24.88 % 
-JSON                     21 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.64 % 
+Python                   1 hr 8 mins         ███████████░░░░░░░░░░░░░░   45.94 % 
+Go                       56 mins             █████████░░░░░░░░░░░░░░░░   37.51 % 
+JSON                     24 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
 TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  1 hr 59 mins        █████████████████████████   100.00 % 
+VS Code                  2 hrs 29 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Lifeskills automation    1 hr 5 mins         ██████████████░░░░░░░░░░░   54.95 % 
-Dank-Memer-Grinder       48 mins             ██████████░░░░░░░░░░░░░░░   40.86 % 
-google-forms             4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
-dbots                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Dank-Memer-Grinder       1 hr 18 mins        █████████████░░░░░░░░░░░░   52.70 % 
+Lifeskills automation    1 hr 5 mins         ███████████░░░░░░░░░░░░░░   44.05 % 
+google-forms             4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
 
 💻 Operating System: 
-Windows                  1 hr 59 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 29 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -70,7 +68,7 @@ Python                   1 repo              ████████░░░�
 
 
 
- Last Updated on 26/01/2025 18:38:57 UTC
+ Last Updated on 27/01/2025 18:41:00 UTC
 <!--END_SECTION:waka-->
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31pybieniezipiyqstyr662wni5u&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31pybieniezipiyqstyr662wni5u&redirect=true)
