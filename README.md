@@ -10,9 +10,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%2017%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-31-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -24,40 +22,6 @@
  > 
 > 🔑 2 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                10 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
-🌆 Daytime                44 commits          █████████████████░░░░░░░░   68.75 % 
-🌃 Evening                10 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Python                   3 hrs 55 mins       ███████████████████░░░░░░   74.75 % 
-C++                      1 hr 3 mins         █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
-CSV                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
-HTML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
-Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
-
-🔥 Editors: 
-VS Code                  5 hrs 15 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-spam                     3 hrs 56 mins       ███████████████████░░░░░░   75.04 % 
-Codeforces 09 02 2025    1 hr 3 mins         █████░░░░░░░░░░░░░░░░░░░░   20.23 % 
-pandas                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
-
-💻 Operating System: 
-Windows                  5 hrs 15 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -69,7 +33,7 @@ CSS                      1 repo              ██████░░░░░�
 
 
 
- Last Updated on 14/02/2025 18:40:53 UTC
+ Last Updated on 15/02/2025 18:38:01 UTC
 <!--END_SECTION:waka-->
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31pybieniezipiyqstyr662wni5u&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31pybieniezipiyqstyr662wni5u&redirect=true)
