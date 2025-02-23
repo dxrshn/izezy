@@ -20,7 +20,7 @@
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 13 Public Repositories 
+> 📜 14 Public Repositories 
  > 
 > 🔑 2 Private Repositories 
  > 
@@ -40,18 +40,16 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C++                      5 mins              ███████████████░░░░░░░░░░   58.27 % 
-Python                   3 mins              ██████████░░░░░░░░░░░░░░░   41.73 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Codeforces 09 02 2025    5 mins              ███████████████░░░░░░░░░░   58.27 % 
-spam                     3 mins              ██████████░░░░░░░░░░░░░░░   41.73 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -65,7 +63,7 @@ CSS                      1 repo              ██████░░░░░�
 
 
 
- Last Updated on 22/02/2025 18:39:10 UTC
+ Last Updated on 23/02/2025 18:38:52 UTC
 <!--END_SECTION:waka-->
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31pybieniezipiyqstyr662wni5u&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31pybieniezipiyqstyr662wni5u&redirect=true)
