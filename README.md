@@ -10,13 +10,13 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-36%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-39%20hrs%2051%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 20.2 kB Used in GitHub's Storage 
+> 📦 20.3 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -40,16 +40,17 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C++                      10 mins             █████████████████████████   100.00 % 
+C++                      3 hrs 10 mins       █████████████████████████   99.02 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
 
 🔥 Editors: 
-VS Code                  10 mins             █████████████████████████   100.00 % 
+VS Code                  3 hrs 12 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-codeforces problemset    10 mins             █████████████████████████   100.00 % 
+codeforces problemset    3 hrs 12 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  10 mins             █████████████████████████   100.00 % 
+Windows                  3 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -63,7 +64,7 @@ CSS                      1 repo              ██████░░░░░�
 
 
 
- Last Updated on 15/04/2025 18:43:48 UTC
+ Last Updated on 16/04/2025 18:45:12 UTC
 <!--END_SECTION:waka-->
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31pybieniezipiyqstyr662wni5u&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31pybieniezipiyqstyr662wni5u&redirect=true)
