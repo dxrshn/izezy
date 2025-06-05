@@ -12,17 +12,17 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-41%20hrs%2034%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 20.3 kB Used in GitHub's Storage 
  > 
-> 🏆 16 Contributions in the Year 2025
+> 🏆 17 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 14 Public Repositories 
+> 📜 15 Public Repositories 
  > 
 > 🔑 2 Private Repositories 
  > 
@@ -42,20 +42,16 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   7 mins              ██████████████░░░░░░░░░░░   57.65 % 
-CSS                      4 mins              ████████░░░░░░░░░░░░░░░░░   31.48 % 
-C                        1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
-Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  13 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-style                    13 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  13 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -69,7 +65,7 @@ CSS                      1 repo              ██████░░░░░�
 
 
 
- Last Updated on 01/06/2025 18:43:52 UTC
+ Last Updated on 05/06/2025 18:53:18 UTC
 <!--END_SECTION:waka-->
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31pybieniezipiyqstyr662wni5u&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31pybieniezipiyqstyr662wni5u&redirect=true)
