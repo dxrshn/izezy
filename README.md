@@ -18,6 +18,8 @@
 
 > 📦 20.5 kB Used in GitHub's Storage 
  > 
+> 🏆 23 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 18 Public Repositories 
@@ -40,18 +42,16 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C++                      14 mins             ██████████████████████░░░   89.72 % 
-CSS                      1 min               ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  15 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-codeforces problemset    14 mins             ██████████████████████░░░   89.72 % 
-style                    1 min               ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  15 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -66,7 +66,7 @@ CSS                      1 repo              █████░░░░░░�
 
 
 
- Last Updated on 13/06/2025 18:46:48 UTC
+ Last Updated on 14/06/2025 18:44:13 UTC
 <!--END_SECTION:waka-->
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31pybieniezipiyqstyr662wni5u&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31pybieniezipiyqstyr662wni5u&redirect=true)
